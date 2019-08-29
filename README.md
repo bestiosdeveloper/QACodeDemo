@@ -1,7 +1,7 @@
 # QACodeDemo
 Some helper method to create QR code with logo in center.
 
-![preview](https://github.com/bestiosdeveloper/QACodeDemo/blob/master/image.png)
+![preview](https://github.com/bestiosdeveloper/QACodeDemo/blob/master/DemoImage.png)
 
 
 ## Usage
