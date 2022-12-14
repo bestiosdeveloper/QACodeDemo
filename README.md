@@ -17,7 +17,7 @@ override func viewDidLoad() {
 super.viewDidLoad()
 // Do any additional setup after loading the view.
 
-guard let qrURLImage = URL(string: "http://pramodkumar.tk")?.qrImage(using: #colorLiteral(red: 0.3490196078, green: 0.768627451, blue: 0.6823529412, alpha: 1), logo: #imageLiteral(resourceName: "logo")) else { return }
+guard let qrURLImage = URL(string: "https://www.thepramodkumar.com/")?.qrImage(using: #colorLiteral(red: 0.3490196078, green: 0.768627451, blue: 0.6823529412, alpha: 1), logo: #imageLiteral(resourceName: "logo")) else { return }
 
 imageView.image = qrURLImage
 
